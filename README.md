@@ -1,4 +1,4 @@
 # Kaggle_Projects
 List of Kaggle Projects.
 1.Customer_churning_prediction
--->For more infromation related to dataset,please refer :https://www.kaggle.com/sakshigoyal7/credit-card-customers
+-->For more information related to dataset,please refer :https://www.kaggle.com/sakshigoyal7/credit-card-customers
